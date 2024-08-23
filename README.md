@@ -3,9 +3,9 @@
 ### Este é um simples sistema de reservas em Python para um restaurante, que permite aos usuários fazer novas reservas, consultar reservas existentes ou cancelar reservas. O código foi desenvolvido para ser usado em um ambiente de terminal/console.
 
 ## Funcionalidades
-Fazer uma Nova Reserva: O sistema permite que o usuário insira seu nome, data, horário e o número de pessoas para criar uma nova reserva.
-Consultar uma Reserva Existente: O usuário pode consultar uma reserva existente, fornecendo seu nome.
-Cancelar uma Reserva: O sistema permite ao usuário cancelar uma reserva existente, fornecendo seu nome.
++ Fazer uma Nova Reserva: O sistema permite que o usuário insira seu nome, data, horário e o número de pessoas para criar uma nova reserva.
++ Consultar uma Reserva Existente: O usuário pode consultar uma reserva existente, fornecendo seu nome.
++ Cancelar uma Reserva: O sistema permite ao usuário cancelar uma reserva existente, fornecendo seu nome.
 
 ## Pré-requisitos
 Para executar este sistema, você precisará de:
