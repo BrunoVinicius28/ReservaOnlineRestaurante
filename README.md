@@ -38,7 +38,7 @@ Ao escolher a opção 1, o sistema pedirá que você forneça os seguintes dados
 + Nome
 + Data da reserva (no formato dd/mm/aaaa)
 + Horário da reserva (no formato hh:mm)
-+ Quantas pessoas
++ Quantidade de pessoas
 
 Após a entrada, o sistema confirmará a reserva.
 
@@ -50,7 +50,7 @@ Por favor, informe os seguintes detalhes:
 Digite seu nome: João Silva
 Digite a data da reserva (dd/mm/aaaa): 25/08/2024
 Digite o horário da reserva (hh:mm): 19:30
-Quantas pessoas: 4
+Quantidade de pessoas: 4
 Reserva feita com sucesso para João Silva no dia 25/08/2024 às 19:30 para 4 pessoas.
 ```
 
